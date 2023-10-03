@@ -21,7 +21,7 @@ function Banner() {
                 <div className="left">
                     <div className='name'>
                         <h2>Ramex</h2>
-                        <img srg={check} alt="check"/>
+                        <img src={check} alt="check"/>
                     </div>
 
                     <p>
